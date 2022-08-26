@@ -4,11 +4,16 @@ nama libary ini adalah "ParabolMortar.dll"
 
 menggunakan rumus parabola
 
-//Xmax = a
-//Vo = b
+function parabol_asin() {
 
-C = Xmax * 10 / Vo^2
+  a = Xmax
 
-D = asin(C)
+  b = Vo
 
-Derajat = 90 -(((180 / PI) * D) / 2)
+  c = a * 10 / b^2
+
+  d = asin(c)
+
+  Sudut Elevasi = 90 -(((180 / PI) * Dc) / 2)
+
+}
