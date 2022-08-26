@@ -4,6 +4,9 @@ nama libary ini adalah "ParabolMortar.dll"
 
 menggunakan rumus parabola
 
+//Xmax = a
+//Vo = b
+
 C = Xmax * 10 / Vo^2
 
 D = asin(C)
