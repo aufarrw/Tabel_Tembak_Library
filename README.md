@@ -14,6 +14,6 @@ function parabol_asin() {
 
   d = asin(c)
 
-  Sudut Elevasi = 90 -(((180 / PI) * Dc) / 2)
+  Sudut Elevasi = 90 -(((180 / PI) * d) / 2)
 
 }
